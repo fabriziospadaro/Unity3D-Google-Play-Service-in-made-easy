@@ -1,4 +1,9 @@
-﻿using System.Collections.Generic;
+// Author: Fabrizio Spadaro
+// License Copyright 2018 (c)Fabrizio Spadaro
+// https://twitter.com/F_adaro
+// https://github.com/fabriziospadaro
+
+using System.Collections.Generic;
 using UnityEngine;
 using GooglePlayGames.BasicApi;
 using GooglePlayGames.BasicApi.Multiplayer;

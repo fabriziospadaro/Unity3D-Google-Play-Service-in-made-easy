@@ -1,4 +1,9 @@
-﻿using System.Collections;
+// Author: Fabrizio Spadaro
+// License Copyright 2018 (c)Fabrizio Spadaro
+// https://twitter.com/F_adaro
+// https://github.com/fabriziospadaro
+
+using System.Collections;
 using UnityEngine;
 
 public class ParticipantInformation{

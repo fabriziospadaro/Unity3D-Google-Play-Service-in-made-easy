@@ -1,4 +1,9 @@
-﻿using GooglePlayGames;
+// Author: Fabrizio Spadaro
+// License Copyright 2018 (c)Fabrizio Spadaro
+// https://twitter.com/F_adaro
+// https://github.com/fabriziospadaro
+
+using GooglePlayGames;
 using GooglePlayGames.BasicApi;
 using GooglePlayGames.BasicApi.SavedGame;
 using System;

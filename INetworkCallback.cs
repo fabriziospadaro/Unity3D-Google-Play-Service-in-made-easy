@@ -1,4 +1,9 @@
-﻿public interface INetworkCallback {
+// Author: Fabrizio Spadaro
+// License Copyright 2018 (c)Fabrizio Spadaro
+// https://twitter.com/F_adaro
+// https://github.com/fabriziospadaro
+
+public interface INetworkCallback {
     //authentication callbacks
     void OnAuthenticating();
     void OnAuthenticationFail();
